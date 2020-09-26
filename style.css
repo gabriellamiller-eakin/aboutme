@@ -1,0 +1,57 @@
+/* Background image for the page */
+body {
+    background-image: url('https://images.wallpaperscraft.com/image/leaves_green_dark_145996_1920x1080.jpg');
+  }
+/* container styling  */
+  .container {
+      background-color: rgb(236, 228, 228);
+      width: auto;
+      padding: 50px; 
+      margin: 40px; 
+  }
+/* h1 styling  */
+  h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    position: relative;
+    left: 10px;
+    top: -15px;
+  }
+/* h2 styling */
+  h2 {
+    font-size: small;
+}
+/* adjusting the img position */
+  img {
+    position:relative; 
+    top: 5px;
+  }
+  /* footer */
+  footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:black;
+    color:white;
+    text-align: center;
+  }
+
+  /* This is styling for my social icons in the Contact page */
+.social-icons {
+  position: relative;
+  left: 35px;
+}
+.contact {
+  position: relative;
+  top: 30px;
+  left: 30px; 
+}
+
+/* Fixing positioning of lead class in jumbotron in the portfolio page */
+.lead {
+  position: relative;
+  left:10px;
+ }
+
+
